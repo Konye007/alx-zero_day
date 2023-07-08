@@ -1,2 +1,2 @@
 My first readme
-the oly task
+the only task
